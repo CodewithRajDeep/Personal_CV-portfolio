@@ -9,24 +9,14 @@ Sitting at the top of your CV, it's your opportunity to sell yourself to employe
 While effectively and succinctly convincing recruiters that you're a good fit for the role, a personal statement gives you the chance to show off your strengths and share your career goals.
 'The focus of your CV statement should be to target your offer to employers - why should they hire you and how are you different to other graduates? Therefore, making your personal statement as unique as possible is crucial to ensure you stand out from the crowd,' explains Alex Proctor, careers consultant at the University of Bradford.
 
-## Field where it can be implemented: 
-1. Team Meeting,
-2. Increment in DevOps practices by 40%.
-3. Members communication.
-4. Buisness
+## Tools used: 
+1. 3JS, JavaScript(ES6+)
+2. 3JSDrei,
+3. React,Vite and Typescript
+4. 3D Blender Render Objects and TailwindCSS
+5. EmailJS
 
-## How to start:
-1. **Clone the repository:**
-   ```bash
-   git clone [invalid URL removed]
-2. **Install all dependcies**
-    ```bash
-    cd your-project
-   npm install
-3. **start the development server**
-     ```bash
-      npm start
-   
+
 ## Contributing
 Guidelines for contributing to the project.
 **Reporting Issues:**
@@ -48,18 +38,21 @@ Open a Pull Request: Create a pull request from your branch to the main reposito
 Provide details: Clearly describe the changes you've made and the benefits they bring.
 Address code review feedback: Be open to feedback and make necessary changes.
 
+**Plugins:**
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
 **Testing:**
 Write unit tests for any new features or bug fixes.
 Ensure existing tests pass after your changes.
 
 ## License
-Copyright (c) 2024 Deep Raj 
+Copyright (c) 2024 Deep Raj || All rights reserved.
 ## Work demomstration: 
 <img src="https://sendbird.sfo3.digitaloceanspaces.com/cms/3.-user-moderation.gif" width="256"/>
 <img src="https://blog.flock.com/hubfs/GIFs/chat.gif" width="256"/>
 <img src="https://cdn.dribbble.com/users/543480/screenshots/3993214/gif_animation_dribbble_shot.gif" width="256"/>
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
