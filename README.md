@@ -54,7 +54,7 @@ Copyright (c) 2024 Deep Raj || All rights reserved.
 ## Work demomstration: 
 <img src="https://visme.co/blog/wp-content/uploads/2020/02/header-1200.gif" width="256"/>
 <img src="https://blog.flock.com/hubfs/GIFs/chat.gif" width="256"/>
-<img src="https://cdn.dribbble.com/users/543480/screenshots/3993214/gif_animation_dribbble_shot.gif" width="256"/>
+<img src="https://cdn.dribbble.com/users/469745/screenshots/1709103/untitled1.gif" width="256"/>
 
 ## Memes
 <img src="https://i.pinimg.com/originals/2e/e2/7d/2ee27d49fc7ea71ec8e80c7417248598.gif" width="256"/>
