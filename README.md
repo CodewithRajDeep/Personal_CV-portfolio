@@ -4,10 +4,10 @@
 Create a fully responsive 3D portfolio  application to showcase all my skills and assets gained throughout my journey. This app helps in providing seamlessly communication as well as refined UI/YX interaction  as well as  to show increase the work ratio within Agile methoaology over 35-40%. 
 
 ## Field of Study:
-Messaging has become a part of our everyday lives in part due to its convenience for real-time chat communication and simple-to-use functionality. For instance,
-an iOS or text message on an iPhone or Android device from a friend, an email from a co-worker on Microsoft or Gmail, a team chat in a Slack or Microsoft Teams
-workspace, or even instant messaging through social media. These messaging and real-time chat applications play an important role in how the world interacts today,
-due to their immediacy and vast capabilities. 
+A CV personal statement is a concise paragraph or summary, which details what you can bring to a job or company. It's also known as an opening statement, personal profile, personal summary or executive summary.
+Sitting at the top of your CV, it's your opportunity to sell yourself to employers and to highlight the relevant skills and experience you possess.
+While effectively and succinctly convincing recruiters that you're a good fit for the role, a personal statement gives you the chance to show off your strengths and share your career goals.
+'The focus of your CV statement should be to target your offer to employers - why should they hire you and how are you different to other graduates? Therefore, making your personal statement as unique as possible is crucial to ensure you stand out from the crowd,' explains Alex Proctor, careers consultant at the University of Bradford.
 
 ## Field where it can be implemented: 
 1. Team Meeting,
