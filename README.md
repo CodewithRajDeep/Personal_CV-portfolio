@@ -53,7 +53,7 @@ Ensure existing tests pass after your changes.
 Copyright (c) 2024 Deep Raj || All rights reserved.
 ## Work demomstration: 
 <img src="https://visme.co/blog/wp-content/uploads/2020/02/header-1200.gif" width="256"/>
-<img src="https://blog.flock.com/hubfs/GIFs/chat.gif" width="256"/>
+<img src="https://news.microsoft.com/wp-content/uploads/prod/sites/388/2018/05/limitedexperience_hero_social.gif" width="256"/>
 <img src="https://cdn.dribbble.com/users/469745/screenshots/1709103/untitled1.gif" width="256"/>
 
 ## Memes
