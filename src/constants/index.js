@@ -24,7 +24,27 @@ import {
     threads,
     typescript
 } from "../assets/icons";
-import { meta, shopify, starbucks, tesla} from "../assets/images";
+import androidSvg from '../assets/image/android.svg';
+import arduinoSvg from '../assets/image/arduino.svg';
+import blenderSvg from '../assets/image/blender.svg';
+import bootstrapSvg from '../assets/image/bootstrap.svg';
+import cSvg from '../assets/image/c.svg';
+import ccSvg from '../assets/image/cc.svg';
+import cssSvg from '../assets/image/css3.svg';
+import dockerSvg from '../assets/image/docker.svg';
+import javaSvg from '../assets/image/java.svg';
+import linuxSvg from '../assets/image/linux.svg';
+import pythonSvg from '../assets/image/python.svg';
+import sentrySvg from '../assets/image/sentry.svg';
+import viteSvg from '../assets/image/vite.svg';
+import vueSvg from '../assets/image/vue.svg';
+import xmlSvg from '../assets/image/xml.svg';
+import accenture from '../assets/images/accenture.png';
+import blackbird from '../assets/images/blackbird.png';
+import ibm from '../assets/images/ibm.png';
+import minor from "../assets/images/minor.png";
+import open from "../assets/images/open.png";
+import redbull from '../assets/images/redbull.jpg';
 export const skills = [
     {
         imageUrl: css,
@@ -35,6 +55,11 @@ export const skills = [
         imageUrl: express,
         name: "Express",
         type: "Backend",
+    },
+    {
+        imageUrl: linuxSvg,
+        name: "Linux",
+        type: "Script",
     },
     {
         imageUrl: git,
@@ -106,14 +131,84 @@ export const skills = [
         name: "TypeScript",
         type: "Frontend",
     },
+    {
+        imageUrl: blenderSvg,
+        name: "Blender",
+        type: "Model Design",
+    },
+    {
+        imageUrl: androidSvg,
+        name: "Android",
+        type: "App Development",
+    },
+    {
+        imageUrl: javaSvg,
+        name: "Java",
+        type: "Core language",
+    },
+    {
+        imageUrl: xmlSvg,
+        name: "XML",
+        type: "language",
+    },
+    {
+        imageUrl: vueSvg,
+        name: "Vue",
+        type: "Web native language",
+    },
+    {
+        imageUrl: cSvg,
+        name: "C",
+        type: "Core language",
+    },
+    {
+        imageUrl: ccSvg,
+        name: "C++",
+        type: "Core language",
+    },
+    {
+        imageUrl: pythonSvg,
+        name: "Python",
+        type: "Core language",
+    },
+    {
+        imageUrl: dockerSvg,
+        name: "Docker",
+        type: "CI/CD pipeline",
+    },
+    {
+        imageUrl: sentrySvg,
+        name: "Sentry",
+        type: "Monitor",
+    },
+    {
+        imageUrl: bootstrapSvg ,
+        name: "Bootstrap",
+        type: "Web component",
+    },
+    {
+        imageUrl: cssSvg,
+        name: "CSS",
+        type: "CSS design",
+    },
+    {
+        imageUrl: viteSvg ,
+        name: "Vite",
+        type: "Js ecosystem",
+    },
+    {
+        imageUrl: arduinoSvg ,
+        name: "Arduino",
+        type: "Microprocessor",
+    },
 ];
 
 export const experiences = [
     {
-     title: "System Developer",
-     company_name: "Accenture",
-     icon: shopify,
-     iconBg: "#b7e4c7",
+    title: "System Developer",
+    company_name: "Accenture",
+    icon: accenture,
+    iconBg: "#CBC3E3",
         date: "July 2024 - Aug 2024",
         points: [
             "Designed a custom algorithm using pseudocode and effectively communicated its logic by creating a detailed flow diagram.",
@@ -124,10 +219,10 @@ export const experiences = [
     },
 
     {
-        title: "Software Engineer Intern",
+        title: "Software Engineer",
         company_name: "Blackbird",
-        icon: tesla,
-        iconBg: "#fbc3bc",
+        icon: blackbird,
+        iconBg: "#D3D3D3",
         date: "Jun 2024 - July 2024",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
@@ -140,8 +235,8 @@ export const experiences = [
     {
         title: "Product Developer IBM",
         company_name: "IBM",
-        icon: starbucks,
-        iconBg: "#accbe1",
+        icon: ibm,
+        iconBg: "#87CEFA",
         date: "June 2024 - July 2024",
         points: [
             "Designed and implemented automated testing scripts, enhancing the defect detection rate,improving overall software quality and reliability",
@@ -150,18 +245,56 @@ export const experiences = [
             "Participating in code reviews and providing constructive feedback to other developers.",
         ],
     },
+    {
+        title: "Sales job Program",
+        company_name: "Redbull",
+        icon: redbull,
+        iconBg: "#FFFFED",
+        date: "May 2024",
+        points: [
+            "Completed a job simulation focused on On-Premise Sales activities at Red Bull",
+            "Communicated observations to Red Bull team members about why certain clients are performing better than others.",
+            "Utilized active listening and social proof to overcome a client's objections resulting in them more prominently featuring Red Bull in their bar.",
+        ],
+    },
 
     {
         title: "Full stack Developer",
-        company_name: "Academic Minor",
-        icon: meta,
-        iconBg: "#a2d2ff",
+        company_name: "Academic Minor-II",
+        icon: minor,
+        iconBg: "#90EE90",
         date: "Jan 2024-May 2024",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Developed a precise MERN stack-based website to retrieve headlines and optimize search functionality, focusing on preventing duplicated keys in search results.",
             "Leveraged the JavaScript ecosystem and libraries to enhance search result speed and efficiency.",
             "Participating in code reviews and providing constructive feedback to other developers.",
+        ],
+    },
+    {
+        title: "Full stack Developer",
+        company_name: "Academic Minor-I",
+        icon: minor,
+        iconBg: "#FFDBBB",
+        date: "Aug 2023- Nov 2023",
+        points: [
+            "Created adaptive word generation terminal-based system using deep learning concepts, and NLP.",
+            "Developed  system using a combination of deep learning, OCR, and KNN algorithms.",
+            "The system effectively extracts text from images using OCR, processes the extracted data with KNN for pattern recognition, and generates adaptive text output using deep learning models. ",
+            "Implemented the system in a Java-based terminal application.",
+        ],
+    },
+    {
+        title: "Core Management Member",
+        company_name: "Open Community",
+        icon: open,
+        iconBg: "#454545",
+        date: "Jan 2023- Mar 2024",
+        points: [
+            "Core member of the Open Learning program, successfully organized and hosted multiple events to foster a collaborative learning environment.",
+            "Demonstrated strong leadership, communication, and organizational skills by managing teams and driving student engagement in open-source contributions and Git. ",
+            "Received commendation for exceptional management abilities.",
+            "Gained many experiences and timemanagement skills while working in committe.",
         ],
     },
 ];
