@@ -59,3 +59,5 @@ Copyright (c) 2024 Deep Raj || All rights reserved.
 ## Memes
 <img src="https://i.pinimg.com/originals/2e/e2/7d/2ee27d49fc7ea71ec8e80c7417248598.gif" width="256"/>
 
+## Hosting:
+[![Netlify Status](https://api.netlify.com/api/v1/badges/307885c1-d565-4922-95bf-54a7f0f6afad/deploy-status)](https://app.netlify.com/sites/deepraj-cv/deploys)
