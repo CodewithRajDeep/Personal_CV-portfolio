@@ -9,6 +9,8 @@ Sitting at the top of your CV, it's your opportunity to sell yourself to employe
 While effectively and succinctly convincing recruiters that you're a good fit for the role, a personal statement gives you the chance to show off your strengths and share your career goals.
 'The focus of your CV statement should be to target your offer to employers - why should they hire you and how are you different to other graduates? Therefore, making your personal statement as unique as possible is crucial to ensure you stand out from the crowd,' explains Alex Proctor, careers consultant at the University of Bradford.
 
+## Purpose of Study: 
+
 ## Tools used: 
 1. 3JS, JavaScript(ES6+)
 2. 3JSDrei,
