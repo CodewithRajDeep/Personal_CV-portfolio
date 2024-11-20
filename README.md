@@ -9,6 +9,9 @@ Sitting at the top of your CV, it's your opportunity to sell yourself to employe
 While effectively and succinctly convincing recruiters that you're a good fit for the role, a personal statement gives you the chance to show off your strengths and share your career goals.
 'The focus of your CV statement should be to target your offer to employers - why should they hire you and how are you different to other graduates? Therefore, making your personal statement as unique as possible is crucial to ensure you stand out from the crowd,' explains Alex Proctor, careers consultant at the University of Bradford.
 
+## Purpose of Study: 
+Portfolios are a great way to demonstrate the competencies and accomplishments this would list on a resume or talk about in an interview – they allow you to show, not just tell. Your portfolio helps you showcase your proven work to potential employers. It presents evidence of your relevant skills and abilities.Archiving samples of your work to a portfolio is a great way to keep track of your accomplishments and document when you acquired key competencies. Having everything you’ve done in one place can also be useful to reference in preparation for annual performance reviews, professional development conversations, networking or if you’re pursuing future professional opportunities.
+
 ## Tools used: 
 1. 3JS, JavaScript(ES6+)
 2. 3JSDrei,
@@ -50,7 +53,7 @@ Write unit tests for any new features or bug fixes.
 Ensure existing tests pass after your changes.
 
 ## License
-Copyright (c) 2024 Deep Raj || All rights reserved.
+Copyright (c)2024 Deep Raj | All rights reserved.
 ## Work demomstration: 
 <img src="https://visme.co/blog/wp-content/uploads/2020/02/header-1200.gif" width="256"/>
 <img src="https://news.microsoft.com/wp-content/uploads/prod/sites/388/2018/05/limitedexperience_hero_social.gif" width="256"/>
@@ -59,3 +62,5 @@ Copyright (c) 2024 Deep Raj || All rights reserved.
 ## Memes
 <img src="https://i.pinimg.com/originals/2e/e2/7d/2ee27d49fc7ea71ec8e80c7417248598.gif" width="256"/>
 
+## Hosting:
+[![Netlify Status](https://api.netlify.com/api/v1/badges/307885c1-d565-4922-95bf-54a7f0f6afad/deploy-status)](https://deepraj-cv.netlify.app)
