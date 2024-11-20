@@ -44,6 +44,7 @@ import blackbird from '../assets/images/blackbird.png';
 import ibm from '../assets/images/ibm.png';
 import minor from "../assets/images/minor.png";
 import open from "../assets/images/open.png";
+import hacktober from '../assets/images/hacktoberfest.png';
 import redbull from '../assets/images/redbull.jpg';
 export const skills = [
     {
@@ -205,11 +206,39 @@ export const skills = [
 
 export const experiences = [
     {
-    title: "System Developer",
-    company_name: "Accenture",
-    icon: accenture,
-    iconBg: "#CBC3E3",
-        date: "July 2024 - Aug 2024",
+        title: "Full Stack Developer",
+        company_name: "Academics Major Project-I",
+        icon: minor,
+        iconBg: "#90EE90",
+        date: "Aug 2024 - Nov 2024",
+        points: [
+            "Developed a comprehensive financial management system for tracking real-time transactions.",
+            "Analyzing spending patterns, providing users with enhanced financial visibility.",
+            "Integrated with Appwrite and Plaid APIs for streamlined bank connectivity and seamless transaction processing.",
+            "Deployed the application on Vercel for efficient and reliable hosting, ensuring scalability for a growing user base.",
+        ],
+    },
+
+    {
+        title: "Open Source Contributor",
+        company_name: "Hacktoberfest 2024",
+        icon: hacktober,
+        iconBg: "#C4A484",
+        date: "Oct 2024 - Oct 2024",
+        points: [
+           "Contributed to freeCodeCamps open-source repository as part of Hacktoberfest 2024, enhancing educational resources for learners in web development and programming.",
+            "Collaborated with a global community of developers, gaining valuable experience in open-source contribution practices and version control.",
+            "Improved project documentation and submitted code contributions, helping streamline learning paths for users across various streams like coding, deploying, and project-based learning.",
+            "Participating in code reviews and providing constructive feedback to other developers.",
+        ],
+    },
+
+    {
+       title: "Software Engineer Intern",
+       company_name: "Accenture UK",
+       icon: accenture,
+       iconBg: "#CBC3E3",
+       date: "July 2024 - Aug 2024",
         points: [
             "Designed a custom algorithm using pseudocode and effectively communicated its logic by creating a detailed flow diagram.",
             "Completed  Developer and Technology Job Program where I developed an end to end understanding of the Software Development Lifecycle.",
@@ -219,7 +248,7 @@ export const experiences = [
     },
 
     {
-        title: "Software Engineer",
+        title: "Software Engineer Intern",
         company_name: "Blackbird",
         icon: blackbird,
         iconBg: "#D3D3D3",
@@ -318,6 +347,21 @@ export const socialLinks = [
 ];
 
 export const projects = [
+    
+    {
+        iconUrl: estate,
+        theme: 'btn-back-yellow',
+        name: 'Finance Flow:  Comprehensive Financial Management System',
+        description: 'Developed robust financial management system designed to provide real-time transaction tracking, spending analysis, and interactive financial insights. Built with Next.js, Appwrite, and Chart.js, it features secure JWT-based authentication and integrates with Plaid for seamless bank connectivity, offering users an intuitive and secure platform to manage their finances efficiently.',
+        link: 'https://finance-flow-beige.vercel.app/',
+    },
+    {
+        iconUrl: summiz,
+        theme: 'btn-back-black',
+        name: 'Single Player Online Card Game',
+        description: 'Created a single-player online card game with engaging gameplay mechanics and real-time score updates. Built with React and Redux, the game features four card types with unique win/loss conditions, a leaderboard for tracking player scores, an auto-save function, and secure session management, providing users with an interactive and seamless gaming experience.',
+        link: 'https://github.com/CodewithRajDeep/Online-CardGame',
+    },
     {
         iconUrl: pricewise,
         theme: 'btn-back-red',
@@ -331,6 +375,13 @@ export const projects = [
         name: 'Full Stack Headline Application',
         description: 'Developed a precise MERN stack-based website to retrieve headlines and optimize search functionality, focusing on preventing duplicated keys in search results.',
         link: 'https://github.com/CodewithRajDeep/Headline-Application-/tree/master',
+    },
+    {
+        iconUrl: snapgram,
+        theme: 'btn-back-orange',
+        name: 'Video Conferencing Application',
+        description: 'Developed a video streaming application that provides high-quality, on-demand video content with smooth playback and real-time streaming capabilities. Built with React and Node.js, the platform integrates secure user authentication, adaptive streaming for varied internet speeds, and a user-friendly interface, delivering a seamless viewing experience across devices.',
+        link: 'https://video-conferencing-gamma.vercel.app',
     },
     {
         iconUrl: car,
